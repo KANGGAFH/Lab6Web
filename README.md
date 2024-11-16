@@ -1,4 +1,4 @@
-# PRAKTIKUM 7
+# PRAKTIKUM 6
 - **Nama**    : Kangga Fajarulhakim
 - **Kelas**   : TI.23.A.4
 - **NIM**     : 312310430
